@@ -16,7 +16,7 @@ follow:
 robbing:
   alert: '{thief} ti sta derubando!'
   cant_steal: Non puoi rubare questo oggetto!
-  escaped: '{target} è riuscito a scappare!'
+  escaped: '{target} è scappato!'
   deny_rob_region: Non puoi rubare qui!
   caught_robber: '{player} ti ha catturato!'
   to_catcher: Hai catturato {player}!
