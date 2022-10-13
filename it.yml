@@ -1,0 +1,26 @@
+general:
+  cooldown: Devi aspettare ancora {time} secondi
+  no_permissions: Non hai i permessi necessari
+  no_permission_item: Non hai il permesso di usare questo oggetto
+handcuffing:
+  uncuffed: '{player} ti ha tolto le manette'
+  cuffed: Sei stato ammanettato da {player}
+  cuff: Hai ammanettato {target}
+  uncuff: Hai tolto le manette da {target}
+  you_cant_when_cuffed: Non puoi farlo mentre sei ammanettato!
+  not_cuffable: Questo giocatore non può essere ammanettato
+follow:
+  make_unfollow_cuffed: '{target} ha smesso di seguirti'
+  make_follow_cuffed: '{target} ti sta seguendo'
+  already_following_someone: Questo giocatore sta seguendo qualcun altro
+robbing:
+  alert: '{thief} ti sta derubando!'
+  cant_steal: Non puoi rubare questo oggetto!
+  escaped: '{target} è riuscito a scappare!'
+  deny_rob_region: Non puoi rubare qui!
+  caught_robber: '{player} ti ha catturato!'
+  to_catcher: Hai catturato {player}!
+  cannot_jump_if_caught: Sei stato catturato, non puoi saltare
+safes:
+  crack_fail: Tentativo di scasso fallito
+  crack_success: Hai scassinato con successo questa cassaforte
