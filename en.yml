@@ -1,0 +1,30 @@
+general:
+  cooldown: "You have to wait another {time} seconds"
+  no_permissions: "You do not have permission"
+  no_permission_item: "You do not have permission to use this item"
+
+robbing:
+  alert: "{thief} is robbing you!"
+  cant_steal: "You can't steal it!"
+  escaped: "{target} escaped!"
+  deny_rob_region: "You cannot rob here!"
+  caught_robber: "{player} caught you!"
+  to_catcher: "You caught {player}!"
+  cannot_jump_if_caught: "You have been caught, you cannot jump"
+
+handcuffing:
+  cuffed: "You've been cuffed by {player}"
+  uncuffed: "You've been uncuffed by {player}"
+  cuff: "You cuffed {target}"
+  uncuff: "You uncuffed {target}"
+  you_cant_when_cuffed: "You can't do that when you are cuffed!"
+  not_cuffable: "This player cannot be handcuffed"
+
+follow:
+  make_follow_cuffed: "{target} is following you"
+  make_unfollow_cuffed: "{target} is not following you"
+  already_following_someone: "This player is already following someone"
+
+safes:
+  crack_fail: "Cracking attempt failed"
+  crack_success: "Safe successfully cracked"
