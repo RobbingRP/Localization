@@ -1,0 +1,2 @@
+general:
+  command_wrong_usage: Правильное использование команды {usage}.
