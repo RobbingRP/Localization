@@ -1,14 +1,17 @@
 general:
   cooldown: Devi aspettare ancora {time} secondi
-  no_permissions: Non hai i permessi necessari
-  no_permission_item: Non hai il permesso di usare questo oggetto
+  no_permissions: '&eNon hai i permessi necessari'
+  no_permission_item: '&eNon hai il permesso di usare questo oggetto'
+  no_permission_command: '&eNon hai i permessi per eseguire questo comando'
+  command_wrong_usage: L'utilizzo corretto è {usage}.
 handcuffing:
   uncuffed: '{player} ti ha tolto le manette'
   cuffed: Sei stato ammanettato da {player}
   cuff: Hai ammanettato {target}
   uncuff: Hai tolto le manette da {target}
   you_cant_when_cuffed: Non puoi farlo mentre sei ammanettato!
-  not_cuffable: Questo giocatore non può essere ammanettato
+  not_cuffable: '&eQuesto giocatore non può essere ammanettato'
+  not_handcuffed: Questo player non è ammanettato
 follow:
   make_unfollow_cuffed: '{target} ha smesso di seguirti'
   make_follow_cuffed: '{target} ti sta seguendo'
@@ -24,3 +27,4 @@ robbing:
 safes:
   crack_fail: Tentativo di scasso fallito
   crack_success: Hai scassinato con successo questa cassaforte
+  need_lockpick: Ti serve un grimaldello
