@@ -12,6 +12,8 @@ handcuffing:
   you_cant_when_cuffed: Non puoi farlo mentre sei ammanettato!
   not_cuffable: '&eQuesto giocatore non può essere ammanettato'
   not_handcuffed: Questo player non è ammanettato
+  handcuffs_healthbar_title: Robustezza manette - Shifta per indebolire
+  broken_handcuffs: Hai rotto le manette!
 follow:
   make_unfollow_cuffed: '{target} ha smesso di seguirti'
   make_follow_cuffed: '{target} ti sta seguendo'
