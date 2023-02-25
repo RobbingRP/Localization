@@ -1,8 +1,8 @@
 general:
   command_wrong_usage: Правильное использование команды {usage}.
   cooldown: Подождите {time} секунд
-  no_permissions: 'У вас недостаточно прав'
-  no_permission_item: '&eУ вас нет прав чтобы использовать этот предмет'
+  no_permissions: '&eУ вас недостаточно прав'
+  no_permission_item: '&eУ вас нет прав на использование этого элемента'
   no_permission_command: '&eУ вас нет разрешения на использование этой команды'
 follow:
   make_unfollow_cuffed: '{target} больше не идёт за тобой'
