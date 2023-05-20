@@ -34,3 +34,18 @@ safes:
   need_lockpick: "You need a lockpick"
   crack_fail: "Cracking attempt failed"
   crack_success: "Safe successfully cracked"
+
+actionbar:
+  time_to_escape: "§2HEY Youuuu have {time} to escape..."
+  handcuffing: "Handcuffing {time}..."
+  escaped: "Escaped!"
+  handcuffing_failed: "Handcuffing failed!"
+  handcuffed: "Handcuffed"
+
+lockpick:
+  name: "Lockpick"
+  lore: "Right click on a safe to try to unlock it. \nYou have the 3 attempts \nto find the right cylinder"
+
+handcuffs:
+  name: "Handcuffs"
+  lore: "Right click on a player to handcuff him."
