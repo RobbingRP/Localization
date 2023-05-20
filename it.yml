@@ -30,3 +30,16 @@ safes:
   crack_fail: Tentativo di scasso fallito
   crack_success: Hai scassinato con successo questa cassaforte
   need_lockpick: Ti serve un grimaldello
+actionbar:
+  time_to_escape: Hai {time} secondi per scappare...
+  handcuffing: Ammanettando {time}...
+  escaped: Fuggito!
+  handcuffing_failed: Ammanettamento fallito!
+  handcuffed: Ammanettato
+lockpick:
+  name: Grimaldello
+  lore: "Click destro sulla cassaforte per provare a sbloccarla. \nHai 3 tentativi\
+    \ \nper cercare il cilindro giusto"
+handcuffs:
+  name: Manette
+  lore: Click destro su un giocatore per ammanettarlo.
