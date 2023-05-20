@@ -36,7 +36,7 @@ safes:
   crack_success: "Safe successfully cracked"
 
 actionbar:
-  time_to_escape: "§2HEY Youuuu have {time} to escape..."
+  time_to_escape: "§2You have {time} to escape..."
   handcuffing: "Handcuffing {time}..."
   escaped: "Escaped!"
   handcuffing_failed: "Handcuffing failed!"
